@@ -1,0 +1,2 @@
+/Users/achat/.local/include/MLX42/MLX42.h
+/Users/achat/.local/lib/libmlx42.a
